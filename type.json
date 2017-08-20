@@ -1,0 +1,46 @@
+{
+    "types": [
+        {
+            "id": 0,
+            "category": 0,
+            "type": 0,
+            "name": "Personal",
+            "description": "Fireworks intended for recreational use during holiday celebrations"
+        },
+        {
+            "id": 0,
+            "category": 0,
+            "type": 1,
+            "name": "Self Propellant",
+            "description": "Sit on the provided chair and be gently exploded up to safe heights."
+        },
+        {
+            "id": 0,
+            "category": 0,
+            "type": 2,
+            "name": "Fishing Assistance",
+            "description": "Place these in the lake for the easiest fishing you've ever done."
+        },
+        {
+            "id": 1,
+            "category": 1,
+            "type": 3,
+            "name": "Tree Stump Management",
+            "description": "For use in tree stump removal."
+        },
+        {
+            "id": 1,
+            "category": 1,
+            "type": 4,
+            "name": "Bird Deterrent",
+            "description": "Small but loud, these will scare away the birds that have been pooping on your car."
+        },
+        {
+            "id": 1,
+            "category": 1,
+            "type": 5,
+            "name": "Rock Clearer",
+            "description": "Our most powerful, able to clear rock for that mining expedition of yours."
+        }
+    ]
+}

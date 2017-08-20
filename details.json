@@ -1,0 +1,101 @@
+{
+    "products": [
+    	{
+        "fairy_sparklers": {
+            "id": 0,
+            "type": 0,
+            "name": "Fairy Sparklers",
+            "description": "Multi-colored sparklers that are safe for any age."
+        }
+    },
+    	{
+        "big_boy_shells": {
+            "id": 0,
+            "type": 0,
+            "name": "Big Boy Shells",
+            "description": "For the extreme fireworker, these shells will put on a show at 2,000 feet."
+        }
+    },
+    	{
+        "low_shot": {
+            "id": 0,
+            "type": 1,
+            "name": "Low Shot",
+            "description": "Sit on the chair and wait until you are shot up in the air to 30 feet."
+        }
+    },
+    	{
+        "evel_knievel": {
+            "id": 0,
+            "type": 1,
+            "name": "Evel Knievel",
+            "description": "Sit in the patriotic chair and you'll soon be soaring to 150 feet in the air. We accept no liability for injury."
+        }
+    },
+    	{
+        "bluegill_angler": {
+            "id": 0,
+            "type": 2,
+            "name": "Bluegill Angler",
+            "description": "These sized down explosives are sure to make your fishing day short and effective, specializing in the smaller Bluegill species."
+        }
+    },
+    	{
+        "catfish_angler": {
+            "id": 0,
+            "type": 2,
+            "name": "Catfish Angler",
+            "description": "This 'father' of the smaller model will knock out any catfish in your lake (and also anything smaller than that, we guess)."
+        }
+    },
+    	{
+        "sapling_derooter": {
+            "id": 1,
+            "type": 3,
+            "name": "Sapling Derooter",
+            "description": "To help you remove that unplanned small tree stump in your backyard."
+        }
+    },
+    	{
+        "old_oak_destroyer": {
+            "id": 1,
+            "type": 3,
+            "name": "Old Oak Destroyer",
+            "description": "Don't grind that huge stump, this is more fun."
+        }
+    },
+    	{
+        "scare_crower": {
+            "id": 1,
+            "type": 4,
+            "name": "Scare Crower",
+            "description": "A small and load explosive to truly scare those crows away."
+        }
+    },
+    	{
+        "scare_fincher": {
+            "id": 1,
+            "type": 4,
+            "name": "Scare Fincher",
+            "description": "Another one of our pocket sized blow ups to scare those nasty finch away."
+        }
+    },
+    	{
+        "ShaleNotPass": {
+            "id": 1,
+            "type": 5,
+            "name": "ShaleNotPass",
+            "description": "Specializing in shale, this large bomb will clear 1 acre at a time."
+        }
+    },
+    	{
+        "Limestoner": {
+            "id": 1,
+            "type": 5,
+            "name": "Limestoner",
+            "description": "DISCLAIMER: our most powerful of all. If you're tired of that beatiful limestone, this will get rid of it 2 acres at a time."
+        }
+    }
+
+	]
+}
